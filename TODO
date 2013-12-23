@@ -1,0 +1,6 @@
+Implement my own patch for building a multicall binary.
+see: http://bugs.ghostscript.com/show_bug.cgi?id=692740
+
+Fix build system to use a simple shell script.
+
+Update text to clarify that this is a fork.
